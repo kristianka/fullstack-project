@@ -25,7 +25,7 @@
     "@tanstack/react-query-devtools": "^5.8.8",
     "axios": "^1.5.1",
     "cross-env": "^7.0.3",
-    "firebase": "^10.7.1",
+    "firebase": "^10.8.1",
     "mapbox-gl": "^2.15.0",
     "preline": "^1.9.0",
     "react": "^18.2.0",
